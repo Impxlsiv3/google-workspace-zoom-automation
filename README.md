@@ -1,6 +1,6 @@
 # Google Workspace & Zoom Admin Automation
 
-A set of Python scripts to automate Google Workspace and Zoom admin tasks using their official APIs.
+A set of Python automation scripts that leverage the Google Admin SDK and Zoom API to handle user provisioning, meeting scheduling, and account administration in cloud-based environments.
 
 ## Features
 - List users from Google Workspace
